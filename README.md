@@ -22,9 +22,6 @@
 
 
 
-## Acknowledgements
-- This project is learned from lamadev (https://www.youtube.com/c/LamaDev)
-- 
 ## Contact
 - Gmail: Momin.Riaz427@gmail.com
 
